@@ -1,0 +1,6 @@
+{
+  "name": "My Inner Collection - Luxury Innerwear & Personal Care",
+  "description": "Premium online clothing and personal-care boutique in Pakistan. High quality ladies' & men's innerwear, lingerie, nightwear, and hair removal care with discreet WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
